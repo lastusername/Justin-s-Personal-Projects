@@ -1,0 +1,46 @@
+.ultext {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #9c6644;
+  text-align:left
+}
+
+
+
+li a {
+  color: #D2B48c;
+  text-decoration: none;
+}
+
+
+
+.block {
+  text-align: center;
+  border: 1px solid #D2B48c;
+  background-color: #7f5539;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.p1 {
+  text-align:left
+}
+
+#linkplaces {
+  font-weight: bolder;
+}
+.list {
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+#h2c {
+  color:white;
+}
+
+a:link {
+  color: #f9f9fb;
+  background-color: transparent;
+  text-decoration: none;
+}

@@ -1,0 +1,10 @@
+Research Topics:
+1. Find an example on the web of each of the 4 color schemes above. 
+  Monochromatic: https://www.schemecolor.com/brown-monochromatic.php
+  Complementary: https://i0.wp.com/micheleclamp.com/wp-content/uploads/2022/04/wheel_blue_orange-1.webp?w=600&ssl=1
+  Analogous: https://www.color-hex.com/color-palette/44915
+  Triad: https://colors.dopely.top/inside-colors/wp-content/uploads/2021/04/Dopely-Brown-Color-Palette-%E2%80%93-25.png
+2. Of the 4 sites you found, which is the most visually appealing in terms of color? Why? 
+  I found monochromatic more appealing because it is all based off the same color just with different intensities. This allows for different variations of a single type of color.
+3. Which color scheme did you choose for your site? Why?
+  For my color scheme I chose the monochromatic  I believe the color got well with what I am trying to present so, using a monochromatic color scheme would be beneficial.
