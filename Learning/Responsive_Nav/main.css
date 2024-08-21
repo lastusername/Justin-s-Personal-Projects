@@ -16,7 +16,7 @@ li {
 }
 
 
-
+/* In the css above, we are reseting the css to its reset form  */
 
 
 
@@ -26,7 +26,7 @@ a {
 
 .header{
     border-bottom: 1px solid #E2E8F0;
-}
+} 
 
 .navbar {
     display: flex;
@@ -34,9 +34,6 @@ a {
     align-items: center;
     padding: 1rem 1.5rem;
 }
-
-
-
 
 
 
@@ -53,11 +50,6 @@ a {
     transition: all 0.3s ease-in-out;
     background-color: #101010;
 }
-
-
-
-
-
 
 
 .nav-menu {
