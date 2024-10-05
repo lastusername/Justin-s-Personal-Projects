@@ -1,0 +1,6 @@
+These are the colors you entered:
+Red
+Yellow
+green
+Yellow
+orange

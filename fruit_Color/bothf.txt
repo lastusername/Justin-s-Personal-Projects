@@ -1,0 +1,5 @@
+Red is the color of Apple
+Yellow is the color of Mango
+green is the color of Pear
+Yellow is the color of Pinapple
+orange is the color of Orange
