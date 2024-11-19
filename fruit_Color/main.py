@@ -64,7 +64,7 @@ def colorbowl():
      colorFile.close()
 
      bothFiles = open("bothf.txt","a")
-     bothFiles.write(color +" is the color of "+fruit+"\n")
+     bothFiles.write(fruit+"'s color is "+color+"\n")
      bothFiles.close()
      return()
 ask4Name()

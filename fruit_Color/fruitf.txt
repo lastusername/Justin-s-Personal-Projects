@@ -1,6 +1,2 @@
 These are the fruits you entered:
-Apple
-Mango
-Pear
-Pinapple
-Orange
+apple
