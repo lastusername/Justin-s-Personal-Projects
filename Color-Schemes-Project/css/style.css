@@ -1,12 +1,20 @@
 
-.imgbackground {
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #e6ccb2;
+}
+nav {
+  margin: 0;
+  padding: 0;
 }
 
 #h1d {
   background-color:#654322;
-  padding-top: 0%;
-  margin-top: 0%;
-  
+  padding: 0;
+  padding-top: 20px;
 }
 li {
   float: left;
@@ -14,20 +22,15 @@ li {
   margin-right: 5%;
   color:#f9f9fb;
 }
-body {
-  height: 100%;
-  width: 100%;
-  background-color: #e6ccb2;
-}
 h1 {
    text-align: center;
+   margin-top: 0%;
    }
 
     #h1 {
       text-align: center;
       color: #f9f9fb;
       background-color:#654322;
-      
     }
 #h2h {
   color:black;
@@ -101,5 +104,13 @@ nav li a:hover:not(.activated) {
   color:#f9f9fb;
 }
 #nextback{
-  color:black;
+  color:whitesmoke;
+  background-color: #7f5539;
+  text-decoration: none;
+  padding: 20px;
+}
+.foot {
+  min-width: 20px;
+  padding-bottom:20px;
+  text-decoration: none;
 }
