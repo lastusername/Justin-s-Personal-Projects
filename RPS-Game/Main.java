@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Main {
   static void greetings() {
     System.out.println("Hello Player, what is you're name");
@@ -49,11 +48,9 @@ public class Main {
          }
        }
       return "" ;
-      
-    
    }
 
-  public static void main(String[] args) {
+   public static void main(String[] args) {
 
     greetings();
     String botdec = Botchoice();
@@ -102,4 +99,4 @@ public class Main {
       System.out.println("error");
     }
     }
-}
+  }
